@@ -1,0 +1,14 @@
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\bin\Debug\net10.0\BlockChain.exe
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\bin\Debug\net10.0\BlockChain.deps.json
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\bin\Debug\net10.0\BlockChain.runtimeconfig.json
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\bin\Debug\net10.0\BlockChain.dll
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\bin\Debug\net10.0\BlockChain.pdb
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.AssemblyInfoInputs.cache
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.AssemblyInfo.cs
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.csproj.CoreCompileInputs.cache
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.dll
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\refint\BlockChain.dll
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.pdb
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\BlockChain.genruntimeconfig.cache
+C:\Users\Avellek\source\repos\BlockChain\BlockChain\obj\Debug\net10.0\ref\BlockChain.dll
